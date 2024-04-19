@@ -1,0 +1,12 @@
+{
+    "Books": "Libros",
+    "Title": "Título",
+    "Author": "Autor",
+    "Action": "Acciones",
+    "Create": "Crear",
+    "Edit": "Editar",
+    "Delete": "Eliminar",
+    "Add new Book": "Agregar nuevo libro",
+    "Select Author": "Seleccionar autor",
+    "Submit": "Enviar"
+}
